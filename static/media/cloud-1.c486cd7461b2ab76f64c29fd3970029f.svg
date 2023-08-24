@@ -1,0 +1,26 @@
+<svg
+  width="100%"
+  height="100%"
+  viewBox="0 0 650 350"
+  style="fill-rule: evenodd; clip-rule: evenodd; stroke-linejoin: round; stroke-miterlimit: 2"
+>
+  <path
+    id="cloud1"
+    d="M362.686,75.373c-34.809,0.033 -66.984,15.321 -84.526,40.158c-6.775,-1.837 -13.858,-2.783 -20.992,-2.796c-34.708,0.017 -63.804,21.684 -67.416,50.2c-34.475,3.009 -60.659,27.013 -60.709,55.655c0,30.95 30.371,56.037 67.834,56.037l256.246,0c37.463,0 67.834,-25.087 67.834,-56.037c-0.021,-28.663 -26.209,-52.692 -60.709,-55.7c0.245,-2.184 0.384,-4.375 0.413,-6.567c-0,-44.708 -43.868,-80.95 -97.976,-80.95Z"
+    style="fill: url(#_Linear1)"
+  />
+  <defs>
+    <linearGradient
+      id="_Linear1"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="matrix(391.911,0,0,391.911,129.039,175.002)"
+    >
+      <stop offset="0" style="stop-color: #e8e8e8; stop-opacity: 1" />
+      <stop offset="1" style="stop-color: #fafafa; stop-opacity: 1" />
+    </linearGradient>
+  </defs>
+</svg>
