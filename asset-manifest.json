@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/camp-day/static/css/main.790e1fb4.css",
-    "main.js": "/camp-day/static/js/main.f23a2674.js",
-    "static/media/campbkg.png": "/camp-day/static/media/campbkg.e24cbb02535322469265.png",
-    "static/media/camp-logo.png": "/camp-day/static/media/camp-logo.591ff141b91196fb08cb.png",
-    "static/media/sun.svg": "/camp-day/static/media/sun.d2477973e449d4e3dd0312ccd8ac73ab.svg",
-    "static/media/cloud-2.svg": "/camp-day/static/media/cloud-2.36024d2a9cbb831fe7f6842162e11815.svg",
-    "static/media/cloud-3.svg": "/camp-day/static/media/cloud-3.f3c07af3dd48eee029a41d55242897cc.svg",
-    "static/media/cloud-1.svg": "/camp-day/static/media/cloud-1.c486cd7461b2ab76f64c29fd3970029f.svg",
-    "index.html": "/camp-day/index.html",
-    "main.790e1fb4.css.map": "/camp-day/static/css/main.790e1fb4.css.map",
-    "main.f23a2674.js.map": "/camp-day/static/js/main.f23a2674.js.map"
+    "main.css": "/static/css/main.309b2bc0.css",
+    "main.js": "/static/js/main.a7260d23.js",
+    "static/media/campbkg.png": "/static/media/campbkg.e24cbb02535322469265.png",
+    "static/media/camp-logo.png": "/static/media/camp-logo.591ff141b91196fb08cb.png",
+    "static/media/sun.svg": "/static/media/sun.d2477973e449d4e3dd0312ccd8ac73ab.svg",
+    "static/media/cloud-2.svg": "/static/media/cloud-2.36024d2a9cbb831fe7f6842162e11815.svg",
+    "static/media/cloud-3.svg": "/static/media/cloud-3.f3c07af3dd48eee029a41d55242897cc.svg",
+    "static/media/cloud-1.svg": "/static/media/cloud-1.c486cd7461b2ab76f64c29fd3970029f.svg",
+    "index.html": "/index.html",
+    "main.309b2bc0.css.map": "/static/css/main.309b2bc0.css.map",
+    "main.a7260d23.js.map": "/static/js/main.a7260d23.js.map"
   },
   "entrypoints": [
-    "static/css/main.790e1fb4.css",
-    "static/js/main.f23a2674.js"
+    "static/css/main.309b2bc0.css",
+    "static/js/main.a7260d23.js"
   ]
 }
