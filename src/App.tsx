@@ -53,7 +53,7 @@ function App() {
         <div>
           <h1>
             <div className="preTitle">
-              <img src={campLogo} />
+              <img src={campLogo} alt="Camp logo" />
               Camp Wally West
             </div>
             <div>CAMPER REGISTRATION</div>
