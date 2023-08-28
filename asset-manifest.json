@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8aab1836.css",
-    "main.js": "/static/js/main.74349dcf.js",
+    "main.css": "/static/css/main.d580dccf.css",
+    "main.js": "/static/js/main.6d1af52c.js",
     "static/media/campbkg.png": "/static/media/campbkg.e24cbb02535322469265.png",
     "static/media/camp-logo.png": "/static/media/camp-logo.591ff141b91196fb08cb.png",
     "static/media/sun.svg": "/static/media/sun.d2477973e449d4e3dd0312ccd8ac73ab.svg",
@@ -9,11 +9,11 @@
     "static/media/cloud-3.svg": "/static/media/cloud-3.f3c07af3dd48eee029a41d55242897cc.svg",
     "static/media/cloud-1.svg": "/static/media/cloud-1.c486cd7461b2ab76f64c29fd3970029f.svg",
     "index.html": "/index.html",
-    "main.8aab1836.css.map": "/static/css/main.8aab1836.css.map",
-    "main.74349dcf.js.map": "/static/js/main.74349dcf.js.map"
+    "main.d580dccf.css.map": "/static/css/main.d580dccf.css.map",
+    "main.6d1af52c.js.map": "/static/js/main.6d1af52c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8aab1836.css",
-    "static/js/main.74349dcf.js"
+    "static/css/main.d580dccf.css",
+    "static/js/main.6d1af52c.js"
   ]
 }
