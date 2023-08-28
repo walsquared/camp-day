@@ -23,7 +23,7 @@ function App() {
             and games while also competing against others for fame!
           </p>
           <p>
-            Games will begin at <b>6pm on Saturday, August 26th</b>, at{' '}
+            Games will begin at <b>6pm on Saturday, September 2</b>, at{' '}
             <a
               href="https://goo.gl/maps/GYYfQoJsXAiobogJA"
               target="_blank"
@@ -40,7 +40,7 @@ function App() {
           <p>
             Below you’ll find a registration form — only one person per team
             will need to register. Please register your team by noon on{' '}
-            <b>Saturday, August 26th!</b>
+            <b>Saturday, September 2!</b>
           </p>
           <p>
             Until then, get hyped, and get ready to play!

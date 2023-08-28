@@ -232,6 +232,7 @@ label {
 input {
   border: none;
   border-bottom: 1px solid var(--textColor);
+  border-radius: 0;
 
   width: 65%;
   margin-bottom: 10px;
